@@ -1,4 +1,4 @@
-Phase	Duration	Average Energy (mJ)	#1/2 cycles	Elapsed time	Lifetime (slope)	Lifetime (A^2)	Delta E (mJ)	Coil E (mJ)	Energy Loss (mJ)	(LAST COLUMN)
+Phase	Duration	Average Energy (mJ)	#1/2 cycles	Elapsed time	Lifetime (slope)	Lifetime (A^2)	Delta E (mJ)	Coil E (mJ)	Energy Loss (mJ)	Delta E + Eloss / CoilE
 25	7	6.841	100	103.8	1344	765	8.976	10.99	0.928	0.901
 25	5	8.548	100	103.93	1630	762	6.774	8.685	1.166	0.914
 25	9	10.146	100	103.57	2969	651	10.357	13.046	1.379	0.9
